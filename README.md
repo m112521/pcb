@@ -12,7 +12,7 @@ Plan:
 - [ ] Convert Shematics to PCB (Design > Convert Shematic to PCB)
 - [ ] Autotrace
 - [ ] Fix traces manually: chamfer right angles, delete unused Arduino pins to free more space for traces
-- [ ] Convert to 
+- [ ] Hole diameter: 1mm - 
 - [ ] Set trace width: ~0.6-0.9 mm
 - [ ] Add text labels
 - [ ] Screenshot 2D and 3D view (PCB mode: View > 3D view) 
