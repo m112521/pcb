@@ -1,5 +1,9 @@
 # Joystick PCB
 
+PCB Joystick for your nrf Arduino robot
+
+![IMG_20230426_170745](https://github.com/m112521/pcb/assets/85460283/826f48f7-1a43-4177-9969-16ad2d988945)
+
 
 Plan:
 
@@ -17,6 +21,8 @@ Plan:
 - [ ] Draw joystick contour (vector)
 - [ ] Add holes
 - [ ] ArtCAM .gcode
+
+
 
 Tools:
 
@@ -41,7 +47,7 @@ BOM:
 
 Scematics:
 
-![shematics](https://github.com/m112521/pcb/assets/85460283/fb95922a-a370-47f8-9642-5dcb0475bc85)
+![pcb](https://github.com/m112521/pcb/assets/85460283/a745d556-1e42-4107-becb-5a0002518586)
 
 
 2D PCB view:
