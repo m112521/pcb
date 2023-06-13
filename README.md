@@ -1,18 +1,33 @@
-# pcb
+# Joystick PCB
 
+
+Plan:
+
+- [ ] EasyEDA sign up
+- [ ] Add components and connect them in Schematics mode
+- [ ] Convert Shematics to PCB (Design > Convert Shematic to PCB)
+- [ ] Autotrace
+- [ ] Fix traces manually: chamfer right angles, delete unused Arduino pins to free more space for traces
+- [ ] Convert to 
+- [ ] Set trace width: ~0.6-0.9 mm
+- [ ] Add text labels
+- [ ] Screenshot 2D and 3D view (PCB mode: View > 3D view) 
+- [ ] Download .dxf
+- [ ] Clean vectors in CorelDraw/Rhino
+- [ ] Draw joystick contour (vector)
+- [ ] Add holes
+- [ ] ArtCAM .gcode
 
 Tools:
 
-- V-bit 20/45 deg (isolation); 
-- 3 mm endmill (bad flattening);
-- 0.8 mm (cutout)
+- V-bit 20/45 deg (trace isolation); 
+- 0.8 mm (holes, cutout).
 
 
 Software:
 
-1. EasyEDA -> Gerber (or Fritzing -> SVG, PNG).
-2. FlatCAM -> G-code.
-3. Candle/Charly GRBL.
+1. EasyEDA -> Gerber (or DXF).
+2. FlatCAM -> G-code (or ArtCAM).
 
 
 BOM:
@@ -24,18 +39,19 @@ BOM:
 - battery holder CR2032;
 - switch.
 
+Scematics:
 
-![1-1-696x385](https://user-images.githubusercontent.com/85460283/205879801-bfda20b9-1f31-4649-89a4-fb944beb1ba6.jpg)
-
-
-2D:
-
-![2D PCB](https://user-images.githubusercontent.com/85460283/205943984-d5c53a42-2085-415e-806e-1977980430c5.PNG)
+![shematics](https://github.com/m112521/pcb/assets/85460283/fb95922a-a370-47f8-9642-5dcb0475bc85)
 
 
-3D:
+2D PCB view:
 
-![3D PCB](https://user-images.githubusercontent.com/85460283/205944078-e1cf7a30-a6a4-40d6-8a4b-c014f7a5fb9a.PNG)
+![shematics](https://github.com/m112521/pcb/assets/85460283/1436aeb1-3427-4f6b-8a84-397dc872172c)
+
+
+3D PCB view:
+
+![3d view](https://github.com/m112521/pcb/assets/85460283/ae97b797-5cba-45ce-8df0-d77fc477756e)
 
 
 FlatCAM:
