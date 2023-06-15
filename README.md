@@ -19,8 +19,10 @@ Plan:
 - [ ] Download .dxf
 - [ ] Clean vectors in CorelDraw/Rhino
 - [ ] Draw joystick contour (vector)
+- [ ] Mirror PCB
 - [ ] Add holes
 - [ ] ArtCAM .gcode
+- [ ] Apply UV mask
 
 
 
