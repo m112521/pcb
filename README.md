@@ -4,8 +4,8 @@ PCB Joystick for your nrf Arduino robot
 
 ![IMG_20230426_170745](https://github.com/m112521/pcb/assets/85460283/826f48f7-1a43-4177-9969-16ad2d988945)
 
+![pcb](https://github.com/m112521/pcb/assets/85460283/46121d92-5e01-4d02-b268-fea93953c286)
 
-![Animated](https://github.com/m112521/pcb/pcb.gif)
 
 Plan:
 
